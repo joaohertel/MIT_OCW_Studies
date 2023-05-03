@@ -3,6 +3,10 @@
 # Write a program to calculate the credit card balance after one year 
 # if a person only pays the minimum monthly payment required by the credit card company each month
 
+
+# TO DO
+# >>>>>>>>> What if pay all in less than 12 months
+
 def calculate_balance( outstanding_balance , annual_interest_rate , minimum_monthly_payment_rate ):
     
     # test data 
