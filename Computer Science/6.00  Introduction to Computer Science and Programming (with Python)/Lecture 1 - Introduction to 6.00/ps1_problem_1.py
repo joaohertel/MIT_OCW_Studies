@@ -4,8 +4,6 @@
 # if a person only pays the minimum monthly payment required by the credit card company each month
 
 
-# TO DO
-# >>>>>>>>> What if pay all in less than 12 months
 
 def calculate_balance( outstanding_balance , annual_interest_rate , minimum_monthly_payment_rate ):
     
